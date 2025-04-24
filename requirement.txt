@@ -1,0 +1,12 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Caching
+Flask-RESTful
+Flask-Security
+Celery
+redis
+flask-mail
+Flask-JSON
+SQLAlchemy

@@ -1,0 +1,6 @@
+redis-server
+python -m celery -A task worker --loglevel=info
+python -m celery -A task beat --loglevel=info
+mailhog # this can vary based on path to MailHog_linux_amd64
+
+http://localhost:8025 for mailhog
